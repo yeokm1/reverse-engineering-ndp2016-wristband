@@ -38,9 +38,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "NDP2016 Pixmob Wristband Reverse Engineered"
+Date "2016-08-10"
+Rev "1"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -473,7 +473,7 @@ L SPST SW1
 U 1 1 57AB8000
 P 8850 4600
 F 0 "SW1" H 8850 4700 50  0000 C CNN
-F 1 "Single-Axis Accelerometer" H 8850 4500 50  0000 C CNN
+F 1 "Accelerometer" H 8850 4500 50  0000 C CNN
 F 2 "" H 8850 4600 50  0000 C CNN
 F 3 "" H 8850 4600 50  0000 C CNN
 	1    8850 4600
