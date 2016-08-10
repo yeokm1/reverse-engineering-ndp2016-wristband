@@ -37,12 +37,12 @@ Assuming the LED lights up, the Microview OLED screen will display "Found" and t
 ![Screen](images/brute-force-microview-connections.png)
 
 Components used in brute force setup are  
-1. Microview
-2. Microview Programmer
-3. IR LED
-4. 330ohm resistor for IR LED
-5. Photocell
-6. 100K ohm resistor for photocell
+1. Microview  
+2. Microview Programmer  
+3. IR LED  
+4. 330ohm resistor for IR LED  
+5. Photocell  
+6. 100K ohm resistor for photocell  
 
 ##References:
 1. [MC81F4204 datasheet](http://abov.co.kr/data/manual/MC81F4204_v1.39.pdf)
