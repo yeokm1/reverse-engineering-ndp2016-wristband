@@ -148,11 +148,7 @@ F 3 "" H 6650 2700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6650 2700 6650 2950
-Wire Wire Line
-	6650 2950 6650 3150
-Wire Wire Line
-	6650 3150 6650 3350
+	6650 2700 6650 3350
 Connection ~ 6650 2950
 Connection ~ 6650 3150
 $Comp
@@ -302,9 +298,7 @@ $EndComp
 Wire Wire Line
 	3900 1700 3900 1900
 Wire Wire Line
-	3900 2200 3900 2250
-Wire Wire Line
-	3900 2250 3900 2350
+	3900 2200 3900 2350
 Wire Wire Line
 	3900 2250 4350 2250
 Wire Wire Line
@@ -312,9 +306,7 @@ Wire Wire Line
 Wire Wire Line
 	3700 4550 4600 4550
 Wire Wire Line
-	3700 1700 3700 2850
-Wire Wire Line
-	3700 2850 3700 4550
+	3700 1700 3700 4550
 Wire Wire Line
 	3950 2950 3950 4750
 Wire Wire Line
@@ -330,9 +322,7 @@ Wire Wire Line
 Wire Wire Line
 	4150 3350 4150 4650
 Wire Wire Line
-	3650 4650 4150 4650
-Wire Wire Line
-	4150 4650 4600 4650
+	3650 4650 4600 4650
 $Comp
 L C C1
 U 1 1 57AB10FF
@@ -344,11 +334,6 @@ F 3 "" H 3900 2500 50  0000 C CNN
 	1    3900 2500
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3900 2650 3900 2850
-Wire Wire Line
-	3900 2850 3700 2850
-Connection ~ 3700 2850
 Connection ~ 3900 2250
 $Comp
 L R R2
@@ -522,4 +507,17 @@ Text GLabel 3650 4350 0    60   Input ~ 0
 PIN_SDATA
 Wire Wire Line
 	4600 4350 3650 4350
+$Comp
+L GND #PWR?
+U 1 1 57AB4EC9
+P 3900 2750
+F 0 "#PWR?" H 3900 2500 50  0001 C CNN
+F 1 "GND" H 3900 2600 50  0000 C CNN
+F 2 "" H 3900 2750 50  0000 C CNN
+F 3 "" H 3900 2750 50  0000 C CNN
+	1    3900 2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 2650 3900 2750
 $EndSCHEMATC
