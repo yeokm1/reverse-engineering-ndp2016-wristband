@@ -19,6 +19,8 @@ Closeup shot of the front of the PCB
 Closeup shot of the back of the PCB
 
 ##Reverse Engineered Schematic
+Using a Multimeter and some trace inspection by eye, I mapped out the connections between the components as shown below. I did not do a code dump of the microcontroller as I lack the time and equipment to do so.
+
 ![Screen](images/schematic.png)
 This schematic files are in Kicad format and can be found in the [ndp2016-pixmob-wristband-reverse-schematic](ndp2016-pixmob-wristband-reverse-schematic) directory.
 
