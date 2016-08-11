@@ -47,5 +47,5 @@ Components used in brute force setup are
 6. 100K ohm resistor for photocell  
 
 ##References:
-1. [MC81F4204 datasheet](http://abov.co.kr/data/manual/MC81F4204_v1.39.pdf)
+1. [MC81F4204 datasheet](http://www.abov.co.kr/data/manual/UM_MC81F4204_V1.41_EN.pdf)
 2. [AT24CS02 datasheet](http://www.atmel.com/Images/Atmel-8815-SEEPROM-AT24CS01-02-Datasheet.pdf)
