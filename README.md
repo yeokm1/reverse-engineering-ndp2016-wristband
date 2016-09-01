@@ -11,7 +11,7 @@ This band receives infrared signals from the organisers and then displays the LE
 
 I gave a talk on this subject at [Hackware v2.1](https://www.facebook.com/events/245575175803923/). Here are the slides and the video.
 
-[![](http://img.youtube.com/vi/9Km77gBqyCY/0.jpg)](http://www.youtube.com/watch?v=9Km77gBqyCY)
+[![](http://img.youtube.com/vi/9Km77gBqyCY/0.jpg)](http://www.youtube.com/watch?v=9Km77gBqyCY)  
 Video of my talk
 
 [![My slides on slideshare](images/first-slide.png)](http://www.slideshare.net/yeokm1/partial-reverse-engineering-the-ndp-2016-led-wristband)
